@@ -1,8 +1,8 @@
 - Hi, I’m @muhammedattif
-- I’m interested in Web development field, 
-  I have an intermediate background in Back-End and Front-End Web Development, 
+- I’m interested in the Web development field, 
+  I have a strong background in Back-End, 
   APIs, Ajax. Not only Web Development, 
-  but I also would like to get into and gain experience in AI field.  
+  but I also would like to get into and gain experience in the AI field.  
 - I’m currently learning Python/Django
 - 📫 How to reach me muhamedattif@gmail.com
 
